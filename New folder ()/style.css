@@ -1,0 +1,36 @@
+.tables{
+    height: fit-content;
+    display: flex;
+}
+.left{
+    padding: 20px;
+background-color: rgb(78, 78, 155);
+color: aliceblue;
+
+}
+.right{
+    color: rgb(123, 125, 126);
+border: 1px solid rgb(196, 190, 190);
+}
+.write{
+    background-color: rgb(155, 107, 18);
+    color: aliceblue;
+}
+.delete{
+    background-color: rgb(148, 16, 16);
+    color: aliceblue;
+}
+h5{
+    background-color: rgb(218, 213, 213) !important;
+}
+.table{
+    color: rgb(123, 125, 126) !important;
+    border: 1px solid rgb(196, 190, 190); 
+}
+button>a{
+    background-color:rgb(78, 78, 155) ;
+    list-style: none;
+    text-decoration: none !important;
+    color: aliceblue;
+    border: none ;
+}
